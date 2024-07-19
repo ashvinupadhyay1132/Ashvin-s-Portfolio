@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 
 ## Live Demo
 
-Check out the live version of my portfolio: [Live Demo](https://ashvinupadhyay1132.github.io/Ashvin-Upadhyay-Personal-Portfolio/)
+Check out the live version of my portfolio: [Live Demo](https://ashvinupadhyay1132.github.io/Ashvin-s-Portfolio/)
 
 ## About Me
 
